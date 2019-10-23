@@ -2,7 +2,8 @@
 
 ## SANS
 [Collection of all SANS posters (CTRL-F-able)](https://www.sans.org/security-resources/posters/dfir)
-[Local access *if saved to /Desktop/SANS*] (//Desktop/SANS)
+
+[Local access (if saved to /Desktop/SANS)] (//Desktop/SANS)
 
 
 ## Greylog

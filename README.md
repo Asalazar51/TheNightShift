@@ -1,9 +1,7 @@
 # OpenSOC.io - Helpful Links
 
 ## SANS
-[Collection of all SANS posters (CTRL-F-able)](https://www.sans.org/security-resources/posters/dfir)
-
-[Local access (if pdf's saved to /Program Data/SANS)] (file:///C:/Program%20Data/SANS/)
+[Collection of all SANS posters (CTRL-F-able)](https://drive.google.com/open?id=1XZTZh8UXHEpq9GsL1VSH4TEJjfLaKssP)
 
 
 ## Greylog
